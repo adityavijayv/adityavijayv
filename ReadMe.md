@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am passionate about my work and I am always looking for new ways to make a difference. I am confident that I can be a valuable asset to your team. <br><br>Computer Science || Artificial Intelligence || JAVA || C/C++ || SWIFT || Software Development || iOS Development<br><br>I am Head of Java Coding Community and Content Creation Club of my College<br><br> Along with that I love to capture the moment of joy and happiness
+I am a dedicated and passionate student, constantly seeking innovative ways to make a significant impact. With a strong foundation in Computer Science and Artificial Intelligence, I excel in JAVA, C/C++, SWIFT, and Software Development, with a particular focus on Java Development.
+As the Head of the Java Coding Community and the Content Creation Club at my college, I have honed my leadership and collaborative skills, driving initiatives that inspire and engage.
+
+Beyond my technical expertise, I am an enthusiastic photographer who loves capturing moments of joy and happiness, blending creativity with precision.
 
 
 ## 🌐 Socials:
